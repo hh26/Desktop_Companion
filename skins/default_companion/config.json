@@ -1,0 +1,33 @@
+{
+  "name": "Display Buddy - Anime Humanoid Companion",
+  "version": "2.0.0",
+  "author": "Antigravity Squad",
+  "character_type": "humanoid",
+  "default_palette": "default",
+  "companion": {
+    "name": "Hari",
+    "initials": "HH"
+  },
+  "visitor": {
+    "name": "Sandy",
+    "initials": "S"
+  },
+  "render": {
+    "scale": 1.0,
+    "fps": 30,
+    "frame_width": 112,
+    "frame_height": 112
+  },
+  "movement": {
+    "walk_speed_px_per_tick": 3.5,
+    "wander_interval_min_seconds": 1.5,
+    "wander_interval_max_seconds": 3.5,
+    "gravity_px_per_tick": 7.5
+  },
+  "behavior_weights": {
+    "idle": 0.20,
+    "wander": 0.70,
+    "sleep": 0.10
+  }
+}
+

@@ -1,0 +1,48 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller / Build outputs
+dist/
+build/
+*.spec
+
+# Archives & Distribution Bundles
+*.zip
+*.tar.gz
+*.rar
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Testing & Cache
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Logs & Crash Traces (Privacy & Security: local system traces)
+*.log
+crash.log
+
+# Scratch Prototyping & Backup Assets
+skins/backup/
+skins/*_raw.png
+skins/*.jpg
+skins/neck_*.png
+skins/sticker_*.png
+skins/embedded_assets.js
+Kiss_Gif.mp4
+companion.html
+open_companion.py
+generate_embedded_assets.py
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/

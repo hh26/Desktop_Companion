@@ -1,0 +1,100 @@
+{
+  "initials": {
+    "companion": "HH",
+    "visitor": "S"
+  },
+  "menu_labels": {
+    "kiss": "😘 I want a Kiss...",
+    "hug": "🤗 Hug me!!",
+    "bored": "🥱 I'm bored.",
+    "talk": "💬 Say Something",
+    "walk": "🚶 Start Walking",
+    "sit": "☕ Sit Down",
+    "sleep": "💤 Take a Nap",
+    "outfit": "🎨 Change Outfit ({palette})",
+    "pause": "⏸️ Pause Movement",
+    "resume": "▶️ Resume Movement",
+    "mute": "🔇 Mute Sounds",
+    "unmute": "🔊 Unmute Sounds",
+    "exit": "❌ Exit Display Buddy"
+  },
+  "idle_quotes": [
+    "Just stretching my legs along the taskbar!",
+    "You got this darling! 💻✨",
+    "Looking very pretty today! 👍",
+    "Time for a sip of water? ☕",
+    "Sitting happily right here beside you.",
+    "Chellam enna pannudhuuu! ✨",
+    "You know you can drag me to anywhere on the screen?",
+    "Whenever you need a hug, just right-click me! 🤗"
+  ],
+  "click_quotes": [
+    "Hey Honey! Looking good! 😄👍",
+    "Baby, Baby, I just wanna... ✨",
+    "Chellam enna pannudhuuu!✨",
+    "I Love You So Much Honey! ☕",
+    "Ummmmmmaaaaahhhhhhhhh!"
+  ],
+  "hug_quotes": [
+    "Chellam! 💖",
+    "Thank you darling! ✨",
+    "Aww, you sweetheart! 🥰❤️"
+  ],
+  "interaction_dialogues": {
+    "kiss": {
+      "boy": "*mwah!* *mwah!* *mwah!* 💕💋",
+      "girl": "Hehe, cutie! 🥰❤️"
+    },
+    "hug": {
+      "boy": "Chellam! 💖",
+      "girl": "Aww, you sweetheart! 🥰❤️"
+    }
+  },
+  "bored_quotes": {
+    "dad_joke": [
+      "Hi bored! 😄"
+    ],
+    "creative": [
+      "Quick! Stare at the ceiling until you see patterns! 👀",
+      "Have you tried spinning around in your chair 3 times? 🔄",
+      "Time for a sip of water or a quick stretch! ☕💧",
+      "Wanna see me do a backflip? ...Okay, I can't, but imagine it! 🤸‍♂️✨",
+      "If you're bored, drag me around the screen and test my gravity! 🚀",
+      "Whenever you're bored, right-click me and ask for a hug! 🤗",
+      "Draw a tiny smiley face on a sticky note. Right now! 📝😊",
+      "What if we opened 50 browser tabs and closed none of them? 🤫"
+    ]
+  },
+  "say_something_quotes": {
+    "literal": [
+      "Something.",
+      "Something! 😜"
+    ],
+    "facts": [
+      "Fun fact: Sea otters hold hands when they sleep so they don't drift away! 🦦💤",
+      "Did you know octopuses have three hearts and blue blood? 🐙💙",
+      "Fun fact: Bananas are technically berries, but strawberries aren't! 🍌🍓",
+      "Did you know honey never spoils? Archaeologists found edible honey in 3,000-year-old tombs! 🍯✨",
+      "Did you know cats spend about 70% of their lives sleeping? Honestly, mood. 🐱💤",
+      "Did you know sloths can hold their breath underwater longer than dolphins? Up to 40 minutes! 🦥🌊",
+      "Fun fact: Cows have best friends and get stressed when separated! 🐮❤️",
+      "Did you know wombat poop is cube-shaped so it doesn't roll away? True story! 🟦💩",
+      "Random thought: Why is 'abbreviation' such a long word? 🤔",
+      "Fun fact: A fluffy cumulus cloud can weigh over a million pounds! ☁️✨"
+    ]
+  },
+  "hanging_quotes": [
+    "Look baby, no gravity! 🛸✨",
+    "Wait... I forgot how to fall! 🧗‍♂️😅",
+    "Gravity is merely a polite suggestion! 😎",
+    "I guess I live up here now! 🏠☁️",
+    "Help! Who turned off physics?! ⚙️😂",
+    "Just hanging out! Get it? 'Hanging' out! 🪂",
+    "The floor is lava, the only constant rule of the True American! 🌋"
+  ],
+  "hanging_drop_quotes": [
+    "Uh oh... don't look down! 😱",
+    "Aaaand gravity's back! 🪂💨",
+    "Down I goooo! 🚀"
+  ]
+}
